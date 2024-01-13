@@ -1,0 +1,11 @@
+Categoria 1
+Modelo: feet_model
+Pasta: pasta1
+Frase 1 da Categoria 1
+Frase 2 da Categoria 1
+
+Categoria 2
+Modelo: default_model
+Pasta: pasta2
+Frase 1 da Categoria 2
+Frase 2 da Categoria 2
